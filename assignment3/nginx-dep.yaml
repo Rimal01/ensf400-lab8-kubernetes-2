@@ -25,5 +25,5 @@ spec:
         configMap:
           name: nginx-configmap
           items:
-          - key: nginx.cfg
+          - key: default.conf
             path: default.conf

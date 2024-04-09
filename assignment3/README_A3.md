@@ -4,11 +4,10 @@ Execution Commands
 ```bash
 $ minikube start
 
-$ kubectl apply -f .
+$ kubectl apply -f . 
 
 $ curl http://$(minikube ip)/
 
-$ curl http://$(minikube ip)/
 ```
 
 
@@ -21,3 +20,11 @@ Cleanup
 ```
 
 Outputs
+
+![alt text](image.png)
+
+
+
+
+![alt text](image-1.png)
+
